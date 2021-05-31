@@ -23,5 +23,7 @@ The second objective is to run a linear regression on each relationship separati
 <li>Northern Hemisphere - Wind Speed (mph) vs. Latitude</li>
 <li>Southern Hemisphere - Wind Speed (mph) vs. Latitude</li>
 </ul>
+<br>
 
-Observable Trends
+### Observable Trends
+
